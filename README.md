@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Varundr12
+- 👋 Hi, I’m Varun D R 
 - 👀 I’m interested in full stack development and data science, cyber security.
-- 🌱 I’m currently learning B.E. in civil
+- 🌱 I’m 2023 B.E. graduate from Bangalore Institute of Technology
 - 💞️ I’m looking to collaborate on computer science
 - 📫 Bangalore, Karnataka       
 
